@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-session.
+
 # think-session
 [![Build Status](https://img.shields.io/travis/thinkjs/think-session/master.svg?style=flat-square)](https://travis-ci.org/thinkjs/think-session)
 [![Coverage Status](https://img.shields.io/coveralls/thinkjs/think-session/master.svg?style=flat-square)](https://coveralls.io/github/thinkjs/think-session?branch=master)
